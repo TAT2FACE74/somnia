@@ -1,7 +1,7 @@
 {
-  "voice": "Microsoft Aria Neural (en-US)",
+  "voice": "Microsoft Christopher Neural (en-US)",
   "engine": "edge-tts",
-  "rate": "-18%",
-  "pitch": "-4Hz",
-  "note": "Free Clara-like stand-in. Swap to ElevenLabs Clara (Qggl4b0xRMiqOwhPtVWT) when credits available."
+  "rate": "-22%",
+  "pitch": "-6Hz",
+  "note": "Deep calm male psychiatrist-like stand-in until ElevenLabs credits allow Brian/Clara"
 }
