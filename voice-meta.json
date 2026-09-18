@@ -1,7 +1,9 @@
 {
-  "voice": "Microsoft Christopher Neural (en-US)",
+  "voice": "Microsoft Andrew Neural (en-US)",
   "engine": "edge-tts",
-  "rate": "-22%",
-  "pitch": "-6Hz",
-  "note": "Deep calm male psychiatrist-like stand-in until ElevenLabs credits allow Brian/Clara"
+  "rate": "-18%",
+  "pitch": "-3Hz",
+  "style": "American warm cinematic (Brad Pitt lane)",
+  "cache_bust": "brad1",
+  "note": "force-cache removed; query v=brad1 so browsers drop Aria"
 }
