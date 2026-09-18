@@ -1,0 +1,20 @@
+{
+  "mode": "live",
+  "base_url": "https://tat2face74.github.io/somnia/",
+  "monthly": {
+    "product_id": "prod_VHUh7mpOtSo9Mv",
+    "price_id": "price_1UGviACXK9iNU3DY8YaKHGCf",
+    "payment_link_id": "plink_1UGviBCXK9iNU3DYMAFv0gIv",
+    "url": "https://buy.stripe.com/aFaeVc9yqeQ57TLeMQ0Fi04",
+    "amount": 999,
+    "interval": "month"
+  },
+  "yearly": {
+    "product_id": "prod_VHUhxvas1uOpTL",
+    "price_id": "price_1UGviBCXK9iNU3DYmylSCrER",
+    "payment_link_id": "plink_1UGviCCXK9iNU3DYjNv9SyfN",
+    "url": "https://buy.stripe.com/cNi3cu5iadM17TL6gk0Fi05",
+    "amount": 5999,
+    "interval": "year"
+  }
+}
